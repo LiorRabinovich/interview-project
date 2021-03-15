@@ -1,0 +1,18 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    select {
+        height: 50px;
+        line-height: 50px;
+        width: 100%;
+        max-width: 150px;
+        align-self: flex-end;
+    }
+}
+
+.error {
+    color: var(--errorColor);
+    font-size: 0.8rem;
+}

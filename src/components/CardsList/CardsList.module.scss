@@ -1,0 +1,10 @@
+.root {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space);
+    justify-content: space-between;
+}
+
+.error {
+    color: var(--errorColor)
+}
