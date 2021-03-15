@@ -2,7 +2,7 @@
   "name": "interview-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://LiorRabinovich.github.io/interview-project",
+  "homepage": "https://liorrabinovich.github.io/interview-project",
   "dependencies": {
     "@reduxjs/toolkit": "^1.1.0",
     "@testing-library/jest-dom": "^4.2.4",
