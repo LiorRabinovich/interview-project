@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interview-project/static/css/main.fc57cf54.chunk.css",
+    "main.js": "/interview-project/static/js/main.549de58d.chunk.js",
+    "main.js.map": "/interview-project/static/js/main.549de58d.chunk.js.map",
+    "runtime-main.js": "/interview-project/static/js/runtime-main.7416db68.js",
+    "runtime-main.js.map": "/interview-project/static/js/runtime-main.7416db68.js.map",
+    "static/js/2.2cafe2d2.chunk.js": "/interview-project/static/js/2.2cafe2d2.chunk.js",
+    "static/js/2.2cafe2d2.chunk.js.map": "/interview-project/static/js/2.2cafe2d2.chunk.js.map",
+    "index.html": "/interview-project/index.html",
+    "static/css/main.fc57cf54.chunk.css.map": "/interview-project/static/css/main.fc57cf54.chunk.css.map",
+    "static/js/2.2cafe2d2.chunk.js.LICENSE.txt": "/interview-project/static/js/2.2cafe2d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7416db68.js",
+    "static/js/2.2cafe2d2.chunk.js",
+    "static/css/main.fc57cf54.chunk.css",
+    "static/js/main.549de58d.chunk.js"
+  ]
+}
